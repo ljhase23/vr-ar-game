@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/lastgame1.unity
+    guid: 24d5b80126cd9de41ade850c0ec56d8e
+  - enabled: 1
+    path: Assets/Scenes/lastgame2.unity
+    guid: 4cab3c2c3c821fc48a76132f703878db
+  - enabled: 1
+    path: Assets/Scenes/lastgame3.unity
+    guid: beb1c71dae5a8834eaa5e6dd7bcc489b
+  - enabled: 1
+    path: Assets/Scenes/first.unity
+    guid: e8cf1d29775c7e24f9dd35148a6437c0
+  - enabled: 1
+    path: Assets/Scenes/dot.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/seconds.unity
+    guid: b2fa8882363c4644b93046de18bcbf19
+  - enabled: 1
+    path: Assets/Scenes/ballex1.unity
+    guid: 4e00b57193636df4cabeb7e685555ff8
+  - enabled: 1
+    path: Assets/Scenes/dotex.unity
+    guid: f4830177de718804289330bb404fa168
+  - enabled: 1
+    path: Assets/Scenes/lastgame.unity
+    guid: e81301ec289654cb9b486b8abd0db779
+  - enabled: 1
+    path: Assets/Scenes/game2.unity
+    guid: 4d341fd757391004eb90c5e10299c0bb
+  - enabled: 1
+    path: Assets/Scenes/clear.unity
+    guid: ccd9341f7b48b9c499f1b9f02fd9fe41
+  - enabled: 1
+    path: Assets/Scenes/ballegameex.unity
+    guid: 8de06d423479ca54eb466a3d90c5309c
+  m_configObjects: {}
